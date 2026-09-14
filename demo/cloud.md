@@ -1,4 +1,4 @@
-
+Tytuł
 
 On-premises - tym terminem określa się infrastrukturę IT (sprzęt, oprogramowanie, dane itp.), która jest pod pełną kontrolą danej organizacji. Inne określenia, z którymi można się spotkać to on-site oraz in-house. Kiedy je usłyszymy w kontekście firmy to możemy śmiało założyć, że chodzi o zasoby, które są w pełni kontrolowane/rozwijane przez daną firmę. Jeśli przyjrzymy się jak wygląda przykład standardowej infrastruktury IT (przedstawiony poniżej), przekonamy się, że jest to dosyć szeroki zakres odpowiedzialności.
 
