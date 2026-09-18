@@ -172,3 +172,4 @@ Nie ukrywam, że przydałaby mi się pomoc przy tworzeniu kompletnego zestawu op
 	- [Establish](4-security-operations/4-1-common-security-techniques.md#establish)
 	- [Deploy](4-security-operations/4-1-common-security-techniques.md#deploy)
 	- [Maintain](4-security-operations/4-1-common-security-techniques.md#maintain)
+New line
